@@ -1,0 +1,4 @@
+aenum
+easydb
+PyQt5
+PyQt5-sip
